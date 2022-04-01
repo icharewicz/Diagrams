@@ -1,1 +1,404 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T07:14:22.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="TPS7BNDFm67nFrNRFXsm" version="17.2.6" type="github" pages="2"><diagram id="WmqVimVm2qyi8e_kU5yy" name="Page-1">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</diagram><diagram name="Page-2" id="YZgu70JDh1D1BL8rc-Zk">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-01T07:26:21.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="4Mrvpbp8pWi0c1tYY8TO" version="17.2.6" type="github" pages="3">
+  <diagram id="WmqVimVm2qyi8e_kU5yy" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eMAQCcM-J0mapr49UOzN-1" value="000005 FP Privigen 10% 100ml" style="swimlane;align=center;gradientColor=#B9E0A5;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-8" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,5" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-1" vertex="1">
+          <mxGeometry x="20" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-4" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Kartoteki -&amp;gt; Katalog produktów&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="140" y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-9" value="000011 FP Rhophylac MBR 300µg 2ml " style="swimlane;align=right;gradientColor=#B9E0A5;" parent="1" vertex="1">
+          <mxGeometry x="270" y="70" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-10" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 3,0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-9" vertex="1">
+          <mxGeometry x="30" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-11" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Słownik przetargów&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="200" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-12" value="Nazwa: Przetarg_Behring_1" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="240" width="350" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-13" value="&lt;b&gt;&amp;nbsp;KOD&lt;/b&gt;:&amp;nbsp; PRZET_BEHR_1&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;Wart.pocz&lt;/b&gt;. 10.000&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;Wart.maks.&lt;/b&gt; 20.000&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;Rodzaj cennika:&lt;/b&gt; Przetarg&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;" parent="eMAQCcM-J0mapr49UOzN-12" vertex="1">
+          <mxGeometry x="25" y="40" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-15" value=" Data ważności: " style="swimlane;align=right;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;" parent="eMAQCcM-J0mapr49UOzN-12" vertex="1">
+          <mxGeometry x="220" y="40" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-16" value="&lt;span style=&quot;&quot;&gt;Od: 28.03.2022&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Do: 31.08.2022&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-15" vertex="1">
+          <mxGeometry x="5" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-17" value="Cechy przetargowe:" style="swimlane;align=center;startSize=23;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="eMAQCcM-J0mapr49UOzN-12" vertex="1">
+          <mxGeometry x="25" y="174" width="155" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-19" value="Substancja czynna " style="swimlane;align=right;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="eMAQCcM-J0mapr49UOzN-17" vertex="1">
+          <mxGeometry x="10" y="30" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-20" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks. 1000&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-19" vertex="1">
+          <mxGeometry x="10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-29" value="Nazwa: Przetarg_Behring_1" style="swimlane;align=center;startSize=23;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="570" y="10" width="520" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-24" value="000005 FP Privigen 10% 100ml" style="swimlane;align=center;gradientColor=#B9E0A5;" parent="eMAQCcM-J0mapr49UOzN-29" vertex="1">
+          <mxGeometry x="15" y="85" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-25" value="- Cena netto: 10,0&lt;br&gt;- Ilość pocz. 0&lt;br&gt;- Ilość maksymalna: 600" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-24" vertex="1">
+          <mxGeometry x="20" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-26" value="000011 FP Rhophylac MBR 300µg 2ml " style="swimlane;align=right;gradientColor=#B9E0A5;" parent="eMAQCcM-J0mapr49UOzN-29" vertex="1">
+          <mxGeometry x="260" y="85" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-27" value="&lt;span&gt;- Cena netto: 20,0&lt;/span&gt;&lt;br&gt;&lt;span&gt;- Ilość pocz. 0&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;- Ilość maksymalna: 300&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-26" vertex="1">
+          <mxGeometry x="35" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-23" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Pozycje przetargu&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="eMAQCcM-J0mapr49UOzN-29" vertex="1">
+          <mxGeometry x="110" y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-36" value="Odbiorca" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="770" y="259" width="350" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-38" value="Cenniki kontrahenta" style="swimlane;align=center;startSize=23;gradientColor=#A9C4EB;" parent="eMAQCcM-J0mapr49UOzN-36" vertex="1">
+          <mxGeometry x="25" y="101" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eMAQCcM-J0mapr49UOzN-39" value="&lt;b style=&quot;text-align: left&quot;&gt;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp; PRZET_BEHR_1&lt;br&gt;Priorytet: 1&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="eMAQCcM-J0mapr49UOzN-38" vertex="1">
+          <mxGeometry x="10" y="31" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pz-c2ACYNiUGN3wV3cRY-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&amp;nbsp; Copernicus Podmiot Leczniczy sp.z o.o.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=default;" parent="eMAQCcM-J0mapr49UOzN-36" vertex="1">
+          <mxGeometry x="35" y="31" width="280" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-2" id="YZgu70JDh1D1BL8rc-Zk">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-0" />
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-1" parent="qPhfP4Gh9RrHk5Ch7ANw-0" />
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-2" value="000040 FP Hizentra 20% 10ml" style="swimlane;align=center;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="50" y="50" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-3" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,2&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 10" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="qPhfP4Gh9RrHk5Ch7ANw-2" vertex="1">
+          <mxGeometry x="20" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-5" value="000039 FP Hizentra 20% 20ml " style="swimlane;align=center;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="270" y="50" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weXiVIMmQ0LlVbYELAWg-0" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,8&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 15" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="qPhfP4Gh9RrHk5Ch7ANw-5" vertex="1">
+          <mxGeometry x="10" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-7" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Słownik przetargów&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="60" y="360" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-8" value="Nazwa: Przetarg_Hizentra_1" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="60" y="400" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-10" value=" Data ważności: " style="swimlane;align=right;startSize=23;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#CDA2BE;" parent="qPhfP4Gh9RrHk5Ch7ANw-8" vertex="1">
+          <mxGeometry x="250" y="55" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-11" value="&lt;span&gt;Od:&amp;nbsp;&lt;/span&gt;29.03.2022&lt;br&gt;&lt;span&gt;Do:&amp;nbsp;&lt;/span&gt;30.06.2022" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="qPhfP4Gh9RrHk5Ch7ANw-10" vertex="1">
+          <mxGeometry x="5" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-12" value="Cechy przetargowe:" style="swimlane;align=center;startSize=23;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FFB570;" parent="qPhfP4Gh9RrHk5Ch7ANw-8" vertex="1">
+          <mxGeometry x="20" y="150" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-13" value="Substancja czynna " style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-12" vertex="1">
+          <mxGeometry x="10" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-14" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks. 2000&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="qPhfP4Gh9RrHk5Ch7ANw-13" vertex="1">
+          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-0" value="Cecha przet. Hizentra" style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B9E0A5;" vertex="1" parent="qPhfP4Gh9RrHk5Ch7ANw-12">
+          <mxGeometry x="185" y="40" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-1" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;20000&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sXX_ZoiS4DDcaNO354Dz-0">
+          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-2" value="Opis" style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#CDA2BE;" vertex="1" parent="qPhfP4Gh9RrHk5Ch7ANw-8">
+          <mxGeometry x="20" y="40" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-3" value="&lt;b style=&quot;text-align: left&quot;&gt;&amp;nbsp;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px ; font-weight: 700&quot;&gt;Przetarg_Hizentra_1&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;Wart.pocz&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;. 100 000,00&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;&amp;nbsp;Wart.maks.&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;400 000,00&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;&amp;nbsp;Rodzaj cennika:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;Przetarg&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sXX_ZoiS4DDcaNO354Dz-2">
+          <mxGeometry x="5" y="30" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-15" value="Nazwa: Przetarg_Hizentra_1" style="swimlane;align=center;startSize=23;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="610" y="10" width="460" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-20" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Pozycje przetargu&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-15" vertex="1">
+          <mxGeometry x="110" y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-0" value="000032 FP Hizentra 20% 5ml  " style="swimlane;align=right;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-15" vertex="1">
+          <mxGeometry x="15" y="80" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-1" value="- Cena netto: 195,0&lt;br&gt;- Ilość pocz. 5&lt;br&gt;- Ilość maksymalna: 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jvQ0R9qxWECB1S-wjZ_W-0" vertex="1">
+          <mxGeometry x="22.5" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-2" value="000039 FP Hizentra 20% 20ml  " style="swimlane;align=right;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-15" vertex="1">
+          <mxGeometry x="230" y="80" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-3" value="- Cena netto: 780,0&lt;br&gt;- Ilość pocz. 5&lt;br&gt;- Ilość maksymalna: 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jvQ0R9qxWECB1S-wjZ_W-2" vertex="1">
+          <mxGeometry x="25" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-4" value="000040 FP Hizentra 20% 10ml " style="swimlane;align=right;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-15" vertex="1">
+          <mxGeometry x="15" y="180" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-5" value="- Cena netto: 390,0&lt;br&gt;- Ilość pocz. 5&lt;br&gt;- Ilość maksymalna: 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jvQ0R9qxWECB1S-wjZ_W-4" vertex="1">
+          <mxGeometry x="20" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-7" value="000041 FP Hizentra 20% 50ml " style="swimlane;align=right;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-15" vertex="1">
+          <mxGeometry x="230" y="180" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-8" value="- Cena netto: 1905,0&lt;br&gt;- Ilość pocz. 5&lt;br&gt;- Ilość maksymalna: 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jvQ0R9qxWECB1S-wjZ_W-7" vertex="1">
+          <mxGeometry x="20" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nnAlPADJEYvVFoBFSRMf-4" value="000005 FP Privigen 10% 100ml" style="swimlane;align=center;gradientColor=#FFD966;" parent="qPhfP4Gh9RrHk5Ch7ANw-15" vertex="1">
+          <mxGeometry x="20" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nnAlPADJEYvVFoBFSRMf-5" value="- Cena netto: 1910,0&lt;br&gt;- Ilość pocz. 5&lt;br&gt;- Ilość maksymalna: 500" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="nnAlPADJEYvVFoBFSRMf-4" vertex="1">
+          <mxGeometry x="10" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-21" value="Odbiorca" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="640" y="414" width="400" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-22" value="Cenniki kontrahenta" style="swimlane;align=center;startSize=23;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-21" vertex="1">
+          <mxGeometry x="10" y="101" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-23" value="&lt;b style=&quot;text-align: left&quot;&gt;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp; PRZET_BEHR_1&lt;br&gt;Priorytet: 1&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="qPhfP4Gh9RrHk5Ch7ANw-22" vertex="1">
+          <mxGeometry x="10" y="31" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qPhfP4Gh9RrHk5Ch7ANw-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&amp;nbsp; Copernicus Podmiot Leczniczy sp.z o.o.&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;labelBorderColor=none;gradientColor=#FFB570;" parent="qPhfP4Gh9RrHk5Ch7ANw-21" vertex="1">
+          <mxGeometry x="60" y="31" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-9" value="Cenniki kontrahenta" style="swimlane;align=center;startSize=23;gradientColor=#A9C4EB;" parent="qPhfP4Gh9RrHk5Ch7ANw-21" vertex="1">
+          <mxGeometry x="190" y="101" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-10" value="&lt;b style=&quot;text-align: left&quot;&gt;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp; PRZETARG_HIZENTRA_1&lt;br&gt;Priorytet: 2&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jvQ0R9qxWECB1S-wjZ_W-9" vertex="1">
+          <mxGeometry y="31" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weXiVIMmQ0LlVbYELAWg-1" value="000041 FP Hizentra 20% 50ml" style="swimlane;align=center;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="50" y="150" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weXiVIMmQ0LlVbYELAWg-2" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,6&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 20" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="weXiVIMmQ0LlVbYELAWg-1" vertex="1">
+          <mxGeometry x="10" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="weXiVIMmQ0LlVbYELAWg-3" value="000032 FP Hizentra 20% 5ml " style="swimlane;align=center;gradientColor=#B9E0A5;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="270" y="150" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="weXiVIMmQ0LlVbYELAWg-4" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 2,1&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 25" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="weXiVIMmQ0LlVbYELAWg-3" vertex="1">
+          <mxGeometry x="20" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-11" value="000005 FP Privigen 10% 100ml" style="swimlane;align=center;gradientColor=#FFD966;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="50" y="240" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jvQ0R9qxWECB1S-wjZ_W-12" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,5&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 17" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="jvQ0R9qxWECB1S-wjZ_W-11" vertex="1">
+          <mxGeometry x="10" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nnAlPADJEYvVFoBFSRMf-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBorderColor=default;fontSize=13;direction=west;labelBackgroundColor=default;fontColor=default;gradientColor=#FFD966;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="260" y="250" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nnAlPADJEYvVFoBFSRMf-3" value="&lt;span&gt;Wspólny z &lt;br&gt;PRZET_BEHR_1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" parent="qPhfP4Gh9RrHk5Ch7ANw-1" vertex="1">
+          <mxGeometry x="270" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-5" value="Kartoteki -&gt; Katalog produktów" style="swimlane;align=center;startSize=23;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="qPhfP4Gh9RrHk5Ch7ANw-1">
+          <mxGeometry x="20" y="10" width="480" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-18" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#B9E0A5;fontSize=9;fillColor=#dae8fc;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#6c8ebf;" edge="1" parent="qPhfP4Gh9RrHk5Ch7ANw-1" source="qPhfP4Gh9RrHk5Ch7ANw-8" target="qPhfP4Gh9RrHk5Ch7ANw-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXX_ZoiS4DDcaNO354Dz-19" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#B9E0A5;fontSize=9;fillColor=#dae8fc;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=#6c8ebf;" edge="1" parent="qPhfP4Gh9RrHk5Ch7ANw-1" source="qPhfP4Gh9RrHk5Ch7ANw-8" target="qPhfP4Gh9RrHk5Ch7ANw-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="sourcePoint" />
+            <mxPoint x="610" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-3" id="nbCc-8sX1q2M_1WheCwq">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-0" />
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-1" parent="OpQCPjF1nWM3-HRiQ_Ju-0" />
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-15" value="Nazwa: Przetarg Cefarm 1" style="swimlane;align=center;startSize=23;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="570" y="10" width="470" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-16" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Pozycje przetargu&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-15">
+          <mxGeometry x="110" y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-17" value="000032 FP Hizentra 20% 5ml " style="swimlane;align=right;gradientColor=#B9E0A5;labelBorderColor=#97D077;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-15">
+          <mxGeometry x="15" y="80" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-18" value="- Cena netto: 220,0&lt;br&gt;- Ilość pocz. 0&lt;br&gt;- Ilość maksymalna: 1000&lt;br&gt;- Cena urzędowa: 110" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-17">
+          <mxGeometry x="22.5" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q8OdjDM5897yAZ9IKh_M-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#B9E0A5;fillColor=#B9E0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="OpQCPjF1nWM3-HRiQ_Ju-17" target="OpQCPjF1nWM3-HRiQ_Ju-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-45" y="100" as="sourcePoint" />
+            <mxPoint x="15" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-19" value="000039 FP Hizentra 20% 20ml " style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-15">
+          <mxGeometry x="230" y="80" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-20" value="- Cena netto: 800,0&lt;br&gt;- Ilość pocz. 0&lt;br&gt;- Ilość maksymalna: 1000" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-19">
+          <mxGeometry x="25" y="25" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-21" value="000040 FP Hizentra 20% 10ml" style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-15">
+          <mxGeometry x="15" y="200" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-22" value="- Cena netto: 400,0&lt;br&gt;- Ilość pocz. 0&lt;br&gt;- Ilość maksymalna: 1000&lt;br&gt;- Cena urzędowa: 300" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-21">
+          <mxGeometry x="22.5" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-23" value="000041 FP Hizentra 20% 50ml" style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-15">
+          <mxGeometry x="230" y="180" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-24" value="- Cena netto: 2200,0&lt;br&gt;- Ilość pocz. 50&lt;br&gt;- Ilość maksymalna: 100" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-23">
+          <mxGeometry x="20" y="25" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q8OdjDM5897yAZ9IKh_M-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#B9E0A5;fontSize=9;fillColor=#B9E0A5;entryX=0;entryY=0.18;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1" source="q8OdjDM5897yAZ9IKh_M-3" target="OpQCPjF1nWM3-HRiQ_Ju-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="200" as="sourcePoint" />
+            <mxPoint x="600" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-2" value="000040 FP Hizentra 20% 10ml" style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="50" y="50" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-3" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,2&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 10" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-2">
+          <mxGeometry x="20" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-4" value="&lt;span style=&quot;font-weight: 700&quot;&gt;Kartoteki -&amp;gt; Katalog produktów&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="140" y="10" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-5" value="000039 FP Hizentra 20% 20ml " style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="270" y="50" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-6" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,8&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 15" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-5">
+          <mxGeometry x="10" y="30" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-7" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Słownik przetargów&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="50" y="440" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-8" value="Nazwa: Przetarg Cefarm 1" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;startSize=23;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="50" y="480" width="380" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-10" value=" Data ważności: " style="swimlane;align=right;startSize=23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-8">
+          <mxGeometry x="250" y="40" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-11" value="&lt;span&gt;Od:&amp;nbsp;&lt;/span&gt;31.03.2022&lt;br&gt;&lt;span&gt;Do:&amp;nbsp;&lt;/span&gt;31.03.2023" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-10">
+          <mxGeometry x="5" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yhao8ObQF9xdtNchU8XI-0" value="Opis" style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#CDA2BE;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-8">
+          <mxGeometry x="10" y="40" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yhao8ObQF9xdtNchU8XI-1" value="&lt;b style=&quot;text-align: left&quot;&gt;&amp;nbsp;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif ; font-size: 14.6667px ; text-align: left&quot;&gt;PRZET_CEFARM_1&lt;/b&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;Wart.pocz&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;. 100 000,00&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;&amp;nbsp;Wart.maks.&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;500 000,00&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;text-align: left&quot;&gt;&amp;nbsp;Rodzaj cennika:&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;Przetarg&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;b style=&quot;text-align: left&quot;&gt;Wymuś&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;- TAK&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="yhao8ObQF9xdtNchU8XI-0">
+          <mxGeometry x="15" y="30" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-0" value="Cechy przetargowe:" style="swimlane;align=center;startSize=23;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FFB570;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-8">
+          <mxGeometry x="10" y="180" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-1" value="Substancja czynna " style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B9E0A5;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-0">
+          <mxGeometry x="10" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-2" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks. 10000&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-1">
+          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-3" value="Cecha przet. Hizentra" style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B9E0A5;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-0">
+          <mxGeometry x="185" y="40" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-4" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;4000&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-3">
+          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-27" value="Odbiorca" style="swimlane;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="50" y="240" width="400" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-28" value="Cenniki kontrahenta" style="swimlane;align=center;startSize=23;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-27">
+          <mxGeometry x="10" y="101" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-29" value="&lt;b style=&quot;text-align: left&quot;&gt;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp; PRZET_CEFARM_1&lt;br&gt;Priorytet: 1&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-28">
+          <mxGeometry y="31" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Centrala Farmaceutyczna CEFARM SA&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;labelBorderColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-27">
+          <mxGeometry x="75" y="31" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-31" value="Cenniki kontrahenta" style="swimlane;align=center;startSize=23;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-27">
+          <mxGeometry x="190" y="101" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-32" value="&lt;b style=&quot;text-align: left&quot;&gt;KOD&lt;/b&gt;&lt;span style=&quot;text-align: left&quot;&gt;:&amp;nbsp; OWS&lt;br&gt;Priorytet: 2&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-31">
+          <mxGeometry x="60" y="31" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-33" value="000041 FP Hizentra 20% 50ml" style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="50" y="150" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-34" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 1,6&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 20" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-33">
+          <mxGeometry x="10" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-35" value="000032 FP Hizentra 20% 5ml " style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="270" y="150" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OpQCPjF1nWM3-HRiQ_Ju-36" value="-&amp;nbsp; &amp;nbsp;Substancja czynna 2,1&lt;br&gt;-&amp;nbsp; &amp;nbsp;Cecha przet. Hizentra 25" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-35">
+          <mxGeometry x="20" y="35" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q8OdjDM5897yAZ9IKh_M-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Zaznaczony&lt;br&gt;jako&lt;br&gt;Refundowany&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#596B4F;fillColor=#d5e8d4;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="480" y="180" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-5" value="Nazwa: Przetarg Cefarm 2" style="swimlane;align=center;startSize=23;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="570" y="370" width="470" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-6" value="&lt;h2&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Kontrahenci -&amp;gt; Przetargi -&amp;gt; Pozycje przetargu&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#A9C4EB;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-5">
+          <mxGeometry x="110" y="40" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-7" value="000032 FP Hizentra 20% 5ml " style="swimlane;align=right;gradientColor=#B9E0A5;labelBorderColor=#97D077;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-5">
+          <mxGeometry x="15" y="80" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-8" value="- Cena netto: 200,0&lt;br&gt;- Ilość pocz. 0&lt;br&gt;- Ilość maksymalna: 1000&lt;br&gt;- Cena urzędowa: 110" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBorderColor=none;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-7">
+          <mxGeometry x="22.5" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#B9E0A5;fillColor=#B9E0A5;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="9EpJPlaVbGU167rZDV7Y-7" target="9EpJPlaVbGU167rZDV7Y-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-45" y="100" as="sourcePoint" />
+            <mxPoint x="15" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-12" value="000040 FP Hizentra 20% 10ml" style="swimlane;align=center;gradientColor=#B9E0A5;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-5">
+          <mxGeometry x="15" y="200" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-13" value="- Cena netto: 380,0&lt;br&gt;- Ilość pocz. 0&lt;br&gt;- Ilość maksymalna: 1000&lt;br&gt;- Cena urzędowa: 300" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-12">
+          <mxGeometry x="22.5" y="30" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-18" value="Cechy przetargowe:" style="swimlane;align=center;startSize=23;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#FFB570;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-5">
+          <mxGeometry x="240" y="80" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-19" value="Substancja czynna " style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B9E0A5;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-18">
+          <mxGeometry x="10" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-20" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks. 10000&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-19">
+          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-21" value="Cecha przet. Hizentra" style="swimlane;align=center;startSize=23;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#B9E0A5;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-18">
+          <mxGeometry x="10" y="140" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-22" value="&lt;span style=&quot;text-align: left&quot;&gt;Ilość pocz. 0&lt;/span&gt;&lt;br style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Ilość maks.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;4000&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9EpJPlaVbGU167rZDV7Y-21">
+          <mxGeometry x="25" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=#B9E0A5;fontSize=9;fillColor=#B9E0A5;entryX=0;entryY=0.18;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.986;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="549" y="572" as="sourcePoint" />
+            <mxPoint x="584.98" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EpJPlaVbGU167rZDV7Y-16" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Zaznaczony&lt;br&gt;jako&lt;br&gt;Refundowany&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#596B4F;fillColor=#d5e8d4;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=2;" vertex="1" parent="OpQCPjF1nWM3-HRiQ_Ju-1">
+          <mxGeometry x="480" y="530" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
