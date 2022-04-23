@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T16:53:14.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="g1bzStqjjop7bsPdA5j5" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T14:40:47.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pIwQKTUhRO-pQr7CdadJ" version="17.4.6" type="github">
   <diagram id="GvJ81ewiGkD8dBq3X1y5" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="25" y="30" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="suN_ioLkZqWvJ2Z0LCIX-4" value="weather_service" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;swimlaneFillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="15" y="60" width="395" height="150" as="geometry" />
+          <mxGeometry x="40" y="60" width="395" height="150" as="geometry" />
         </mxCell>
         <mxCell id="suN_ioLkZqWvJ2Z0LCIX-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="suN_ioLkZqWvJ2Z0LCIX-4" vertex="1">
           <mxGeometry y="30" width="395" height="40" as="geometry" />
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="suN_ioLkZqWvJ2Z0LCIX-17" value="avg_measure" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="250" width="370" height="150" as="geometry" />
+          <mxGeometry x="60" y="280" width="370" height="150" as="geometry" />
         </mxCell>
         <mxCell id="suN_ioLkZqWvJ2Z0LCIX-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="suN_ioLkZqWvJ2Z0LCIX-17" vertex="1">
           <mxGeometry y="30" width="370" height="40" as="geometry" />
@@ -552,7 +552,7 @@
         <mxCell id="_mXA2ZxDwIyXp1SvX6p1-58" value="&lt;span&gt;avg_tem = AVG(SELECT temp FROM measure WHERE city_id = ? AND date = ?)&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="15" y="450" width="460" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n6eOR7ZqdwN3autuCgT0-7" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;jumpStyle=arc;entryX=0.197;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="suN_ioLkZqWvJ2Z0LCIX-13">
+        <mxCell id="n6eOR7ZqdwN3autuCgT0-7" value="" style="endArrow=classic;html=1;rounded=0;sketch=0;jumpStyle=arc;entryX=0.197;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="suN_ioLkZqWvJ2Z0LCIX-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="290" as="sourcePoint" />
             <mxPoint x="100" y="240" as="targetPoint" />
@@ -562,16 +562,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6eOR7ZqdwN3autuCgT0-8" value="locations" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFF2CC;swimlaneFillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="250" width="280" height="130" as="geometry" />
+        <mxCell id="n6eOR7ZqdwN3autuCgT0-8" value="locations" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFF2CC;swimlaneFillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="250" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="n6eOR7ZqdwN3autuCgT0-9" value="location_id PRIMARY KEY AUTO INCREMENT&#xa;location_name VARCHAR (255) NOT NULL&#xa;location_longitude VARCHAR (255)&#xa;location_latitude VARCHAR (255)&#xa;location_region VARCHAR (255)&#xa;country_name VARCHAR (255) NOT NULL&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=5;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" vertex="1" parent="n6eOR7ZqdwN3autuCgT0-8">
+        <mxCell id="n6eOR7ZqdwN3autuCgT0-9" value="location_id PRIMARY KEY AUTO INCREMENT&#xa;location_name VARCHAR (255) NOT NULL&#xa;location_longitude VARCHAR (255)&#xa;location_latitude VARCHAR (255)&#xa;location_region VARCHAR (255)&#xa;country_name VARCHAR (255) NOT NULL&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=5;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="n6eOR7ZqdwN3autuCgT0-8" vertex="1">
           <mxGeometry y="30" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="n6eOR7ZqdwN3autuCgT0-10" value="measures" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFF2CC;swimlaneFillColor=default;" vertex="1" parent="1">
+        <mxCell id="n6eOR7ZqdwN3autuCgT0-10" value="measures" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FFF2CC;swimlaneFillColor=default;" parent="1" vertex="1">
           <mxGeometry x="570" y="580" width="520" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="n6eOR7ZqdwN3autuCgT0-11" value="measure_id PRIMARY KEY AUTO INCREMENT&#xa;temperature INT NOT NULL&#xa;pressure INT NOT NULL&#xa;humidity INT NOT NULL&#xa;wind_direction VARCHAR(255) NOT NULL&#xa;wind_speed INT NOT NULL&#xa;weather_service_id INT NOT NULL CONSTRAINT FOREIGN KEY weather_service(service_id)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=5;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;spacing=2;" vertex="1" parent="n6eOR7ZqdwN3autuCgT0-10">
+        <mxCell id="n6eOR7ZqdwN3autuCgT0-11" value="measure_id PRIMARY KEY AUTO INCREMENT&#xa;temperature INT NOT NULL&#xa;pressure INT NOT NULL&#xa;humidity INT NOT NULL&#xa;wind_direction VARCHAR(255) NOT NULL&#xa;wind_speed INT NOT NULL&#xa;weather_service_id INT NOT NULL CONSTRAINT FOREIGN KEY weather_service(service_id)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=5;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;spacing=2;" parent="n6eOR7ZqdwN3autuCgT0-10" vertex="1">
           <mxGeometry y="30" width="520" height="120" as="geometry" />
         </mxCell>
       </root>
